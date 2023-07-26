@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "description": "提供一个js方法合集",
   "main": "/dist/bundle.esm.js",
+  "repository": "https://github.com/JesenChen01/jx-sdk-js.git",
   "type": "module",
   "scripts": {
     "test": "node example",
