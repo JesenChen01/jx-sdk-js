@@ -4,7 +4,7 @@
   "version": "1.0.1",
   "description": "提供一个js方法合集",
   "repository": "https://github.com/JesenChen01/jx-sdk-js.git",
-  "type": "module",
+  "type": "browser",
   "author": "JesenChen",
   "license": "MIT",
   "main": "dist/web.js",
