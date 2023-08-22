@@ -1,15 +1,15 @@
 {
   "name": "jx-sdk-js",
   "private": false,
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "提供一个js方法合集",
   "repository": "https://github.com/JesenChen01/jx-sdk-js.git",
-  "type": "browser",
+  "type": "module",
   "author": "JesenChen",
   "license": "MIT",
   "main": "dist/web.js",
   "jsnext:main": "dist/web.esm.js",
-  "module": "dist/web.esm.js",
+  "module": "dist/web.umd.js",
   "browser": "dist/web.umd.js",
   "types": "dist/index.d.ts",
   "files": [
